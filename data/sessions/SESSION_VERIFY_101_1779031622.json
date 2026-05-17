@@ -1,0 +1,54 @@
+{
+    "session_id": "SESSION_VERIFY_101_1779031622",
+    "student_id": "VERIFY_101",
+    "subject": "MATH",
+    "start_time_iso": "2026-05-17T18:27:02.485303",
+    "end_time_iso": "2026-05-17T18:27:02.486777",
+    "total_duration_seconds": 0.0,
+    "max_time_per_question_enforced": 30,
+    "final_metrics": {
+        "total_questions_answered": 3,
+        "correct_answers": 3,
+        "raw_percentage": 100.0,
+        "final_theta": 3.0,
+        "final_standard_error": 2.0922
+    },
+    "responses": [
+        {
+            "question_id": "MA009",
+            "user_answer": "C",
+            "correct_answer": "C",
+            "is_correct": true,
+            "is_timeout": false,
+            "time_spent_seconds": 0.0,
+            "irt_difficulty_b": -0.16632631501141656,
+            "irt_discrimination_a": 3.0,
+            "new_theta_estimate": 3.0,
+            "current_se": 38.5113
+        },
+        {
+            "question_id": "MA076",
+            "user_answer": "C",
+            "correct_answer": "C",
+            "is_correct": true,
+            "is_timeout": false,
+            "time_spent_seconds": 0.0,
+            "irt_difficulty_b": 1.672511686139677,
+            "irt_discrimination_a": 1.0194877881325533,
+            "new_theta_estimate": 3.0,
+            "current_se": 2.4235
+        },
+        {
+            "question_id": "MA021",
+            "user_answer": "C",
+            "correct_answer": "C",
+            "is_correct": true,
+            "is_timeout": false,
+            "time_spent_seconds": 0.0,
+            "irt_difficulty_b": 0.2630644988082503,
+            "irt_discrimination_a": 0.8146594465762838,
+            "new_theta_estimate": 3.0,
+            "current_se": 2.0922
+        }
+    ]
+}
