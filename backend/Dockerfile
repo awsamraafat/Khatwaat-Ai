@@ -9,18 +9,16 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     && rm -rf /var/lib/apt/lists/*
 
 # Install python dependencies
-COPY backend/requirements.txt .
+COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy backend, scripts, and AI engine folders into the container
-COPY backend/ ./backend/
-COPY scripts/ ./scripts/
-COPY ai/ ./ai/
-
-# Set working directory to the backend directory
-WORKDIR /app/backend
+# Copy all files and folders in the backend folder (context) into /app
+COPY . .
 
 EXPOSE 8000
+
+# Set python path to /app so that it can resolve "ai" and "scripts" imports
+ENV PYTHONPATH=/app
 
 # Start FastAPI with Uvicorn
 CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]

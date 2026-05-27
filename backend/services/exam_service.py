@@ -5,8 +5,8 @@ import numpy as np
 from datetime import datetime, timezone
 
 # Add the scripts directory to the path so we can import the AI engines
-# __file__ is in backend/services/, so dirname x3 gets us to the root
-root_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+# __file__ is in backend/services/, so dirname x2 gets us to the backend directory
+root_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(root_dir, "scripts"))
 
 from irt_engine import IRTEngine2PL
