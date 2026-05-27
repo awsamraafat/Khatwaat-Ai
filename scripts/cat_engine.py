@@ -33,15 +33,34 @@ class CATEngine:
         self.history_responses = [] # List of 0s and 1s
         self.history_a = [] # List of discrimination params for asked questions
         self.history_b = [] # List of difficulty params for asked questions
+        self.history_c = [] # List of guessing params for asked questions
         self.unasked_questions = {q["question_id"]: q for q in self.all_questions}
 
-    def item_information(self, theta, a, b):
+    def item_information(self, theta, a, b, c=0.0):
         """
-        Calculate Fisher Information for a 2PL model.
-        I(theta) = a^2 * P(theta) * (1 - P(theta))
+        Calculate Fisher Information for a 2PL/3PL model.
+        
+        For 2PL: I(θ) = a² · P(θ) · (1 - P(θ))
+        For 3PL: I(θ) = a² · [(P(θ) - c)² / ((1-c)² · P(θ) · (1-P(θ)))] · P(θ) · (1 - P(θ))
+                       = a² · (P(θ) - c)² / ((1-c)² · P(θ)) · (1 - P(θ))
+        
+        Simplified 3PL Fisher Information:
+        I(θ) = a² · (P*(θ))² / P(θ) · Q(θ) / (1-c)²
+        where P*(θ) = 1/(1+e^(-a(θ-b))) and Q(θ) = 1 - P(θ)
         """
-        p = IRTEngine2PL.probability(theta, a, b)
-        return (a ** 2) * p * (1 - p)
+        p = IRTEngine2PL.probability(theta, a, b, c)
+        q = 1.0 - p
+        
+        if c > 0.0:
+            # 3PL Fisher Information formula
+            p_star = (p - c) / (1.0 - c)  # The 2PL component
+            if p < 1e-10 or q < 1e-10:
+                return 0.0
+            info = (a ** 2) * (p_star ** 2) * q / p
+            return info
+        else:
+            # 2PL Fisher Information (simpler)
+            return (a ** 2) * p * q
 
     def get_next_question(self, exposure_pool_size=5):
         """
@@ -55,7 +74,8 @@ class CATEngine:
         for qid, q in self.unasked_questions.items():
             a = q["irt_parameters"]["a"]
             b = q["irt_parameters"]["b"]
-            info = self.item_information(self.theta, a, b)
+            c = q["irt_parameters"].get("c", 0.0)
+            info = self.item_information(self.theta, a, b, c)
             info_scores.append((info, qid))
 
         # Sort by information descending
@@ -77,11 +97,13 @@ class CATEngine:
         q = self.unasked_questions.pop(question_id)
         a = q["irt_parameters"]["a"]
         b = q["irt_parameters"]["b"]
+        c = q["irt_parameters"].get("c", 0.0)
         
         self.history_questions.append(question_id)
         self.history_responses.append(1 if is_correct else 0)
         self.history_a.append(a)
         self.history_b.append(b)
+        self.history_c.append(c)
         
         # Update Theta using Maximum Likelihood Estimation
         # We need at least one correct and one incorrect answer for stable MLE,
@@ -90,6 +112,7 @@ class CATEngine:
             np.array(self.history_responses),
             np.array(self.history_a),
             np.array(self.history_b),
+            np.array(self.history_c),
             initial_theta=self.theta
         )
         
@@ -100,8 +123,8 @@ class CATEngine:
         Calculates the Standard Error (SE) of the current theta estimate.
         SE = 1 / sqrt(Total Information)
         """
-        total_info = sum(self.item_information(self.theta, a, b) 
-                         for a, b in zip(self.history_a, self.history_b))
+        total_info = sum(self.item_information(self.theta, a, b, c) 
+                         for a, b, c in zip(self.history_a, self.history_b, self.history_c))
         
         if total_info <= 0:
             return float('inf')

@@ -4,9 +4,10 @@ import numpy as np
 import os
 from irt_engine import IRTEngine2PL
 
-def calibrate_and_update_bank(responses_csv_path, bank_path, output_bank_path):
+def calibrate_and_update_bank(responses_csv_path, bank_path, output_bank_path, model='3PL'):
     """
     Reads student responses, calibrates items using JMLE, and saves a calibrated question bank.
+    Supports both 2PL and 3PL models.
     """
     print(f"Loading student responses from {responses_csv_path}...")
     df = pd.read_csv(responses_csv_path)
@@ -15,15 +16,22 @@ def calibrate_and_update_bank(responses_csv_path, bank_path, output_bank_path):
     response_matrix = df.drop(columns=['student_id']).values
     question_ids = df.drop(columns=['student_id']).columns.tolist()
     
-    print(f"Starting Item Calibration for {len(question_ids)} items and {len(df)} students...")
+    print(f"Starting Item Calibration ({model}) for {len(question_ids)} items and {len(df)} students...")
     print("This might take a few moments depending on the data size.")
     
     # Calibrate
-    estimated_thetas, estimated_a, estimated_b = IRTEngine2PL.calibrate_bank(
+    result = IRTEngine2PL.calibrate_bank(
         response_matrix, 
         max_iter=10, # Keep iteration low for performance during demonstration
-        tol=1e-2
+        tol=1e-2,
+        model=model
     )
+    
+    if model == '3PL':
+        estimated_thetas, estimated_a, estimated_b, estimated_c = result
+    else:
+        estimated_thetas, estimated_a, estimated_b = result
+        estimated_c = np.zeros(len(estimated_a))
     
     print("Calibration complete.")
     
@@ -35,8 +43,9 @@ def calibrate_and_update_bank(responses_csv_path, bank_path, output_bank_path):
     questions = data.get("questions", [])
     
     # Update items with new parameters
-    # We create a dictionary to map question IDs to their new parameters easily
-    param_dict = {qid: {"a": a, "b": b} for qid, a, b in zip(question_ids, estimated_a, estimated_b)}
+    param_dict = {}
+    for qid, a, b, c in zip(question_ids, estimated_a, estimated_b, estimated_c):
+        param_dict[qid] = {"a": a, "b": b, "c": c}
     
     updated_count = 0
     for q in questions:
@@ -44,6 +53,7 @@ def calibrate_and_update_bank(responses_csv_path, bank_path, output_bank_path):
         if qid in param_dict:
             q["irt_parameters"]["a"] = float(param_dict[qid]["a"])
             q["irt_parameters"]["b"] = float(param_dict[qid]["b"])
+            q["irt_parameters"]["c"] = float(param_dict[qid]["c"])
             q["metadata"]["calibrated"] = True
             updated_count += 1
             
@@ -62,4 +72,4 @@ if __name__ == "__main__":
     input_bank = os.path.join(BASE_DIR, "data", "processed", "cleaned_question_bank.json")
     output_bank = os.path.join(BASE_DIR, "data", "processed", "calibrated_question_bank.json")
     
-    calibrate_and_update_bank(csv_path, input_bank, output_bank)
+    calibrate_and_update_bank(csv_path, input_bank, output_bank, model='3PL')

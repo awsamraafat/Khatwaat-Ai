@@ -1,0 +1,451 @@
+﻿QuestionID,QuestionText,Subject,OptionA,OptionB,OptionC,OptionD,CorrectAnswer,irt_a,irt_c,irt_b,difficulty
+AR001,قال الشاعر : إذا غامرت في شرف مروم ∴ فلا تقنع بما دون النجوم - المقصود ب شرف مروم هو,ARABIC,المال الوفير,الهدف السامي,النصر في المعركة,الجلوس مع الكبار,B,1.0,0.25,-0.5947071077466924,Medium
+AR002,قال الشاعر : إذا غامرت في شرف مروم ∴ فلا تقنع بما دون النجوم - من خلال البيت السابق يدعو الشاعر إلي,ARABIC,القناعة بما لدينا,التواضع في طلب المجد,الطموح والسعي وراء المعالي,التمسك بالماضي,C,1.0,0.25,0.0,Medium
+AR003,جلس الطفل يستمع إلى تغريد العصافير وقال : إنها تغني لنا - ما نوع التفكير الذي أظهره الطفل؟,ARABIC,خيالي,واقعي,علمي,منطقي,A,1.0,0.25,-0.5596157879354228,Medium
+AR004,إذا كان الكتاب مثل الصديق فما العلاقة المشتركة بينهما؟,ARABIC,كلاهما ينسى بسرعة,كلاهما مصدر للمعرفة والمتعة,كلاهما يحتاج إلى مال كثير,كلاهما سبب للقلق,B,1.0,0.25,-0.8109302162163291,Medium
+AR005,مرادف كلمة واضح هو,ARABIC,غائم,جلي,غامض,مموه,B,1.0,0.25,0.03174869831458027,Medium
+AR006,ضد كلمة كبير هو,ARABIC,عظيم,صغير,ضخم,طويل,B,1.0,0.25,-4.304065093204168,Easy
+AR007,جمع كلمة كتاب هو,ARABIC,كتب,كاتبون,كتاب,كتابون,A,1.0,0.25,-0.5596157879354228,Medium
+AR008,ما نوع الخبر في: إن الله غفور رحيم,ARABIC,خبر مفرد,جملة اسمية,جملة فعلية,شبه جملة,A,1.0,0.25,-1.2527629684953683,Easy
+AR009,نوع الأسلوب في: يا لجمال الطبيعة,ARABIC,تحذير,تحسر,نداء,نداء تعجبي,D,1.0,0.25,-2.0794415416798353,Easy
+AR010,ما مرادف كلمة واضح,ARABIC,غائم,جلي,غامض,مموه,B,1.0,0.25,-0.6931471805599453,Medium
+AR011,ضد كلمة شجاع هو,ARABIC,جريء,جبان,قوي,صامد,B,1.0,0.25,-2.1690537003695236,Easy
+AR012,مرادف كلمة سريع هو,ARABIC,بطيء,متعجل,خامل,ثابت,B,1.0,0.25,-1.178654996341646,Easy
+AR013,ما نوع الأسلوب في: إياك والكذب,ARABIC,نهي,أمر,تحذير,نداء,C,1.0,0.25,0.6931471805599453,Medium
+AR014,ما إعراب كلمة مجتهد في: حضر الطالب مجتهد,ARABIC,حال,نعت,خبر,مفعول به,A,1.0,0.25,0.9808292530117262,Medium
+AR015,نوع الخبر في: العلم نور,ARABIC,مفرد,جملة اسمية,جملة فعلية,شبه جملة,A,1.0,0.25,-4.304065093204168,Easy
+AR016,جمع كلمة قلم هو,ARABIC,أقلام,قلمون,أقلمة,قلام,A,1.0,0.25,-2.3978952727983707,Easy
+AR017,مرادف كلمة جميل هو,ARABIC,قبيح,حسن,رديء,كريه,B,1.0,0.25,-0.48550781578170094,Medium
+AR018,ضد كلمة واسع هو,ARABIC,كبير,ممتد,ضيق,شاسع,C,1.0,0.25,-4.304065093204168,Easy
+AR019,ما نوع التفكير في: تخيل الطفل نفسه طائرا,ARABIC,علمي,منطقي,خيالي,ناقد,C,1.0,0.25,-2.5257286443082547,Easy
+AR020,ما نوع الأسلوب في: ما أجمل الصدق,ARABIC,تعجب,نداء,استفهام,نهي,A,1.0,0.25,-1.6094379124341003,Easy
+AR021,ما نوع الخبر في: المؤمن صادق,ARABIC,مفرد,جملة اسمية,جملة فعلية,شبه جملة,A,1.0,0.25,-0.5947071077466924,Medium
+AR022,ضد كلمة شحيح هو,ARABIC,بخيل,كريم,قليل,فقير,B,1.0,0.25,-0.9409833444645267,Medium
+AR023,مرادف كلمة حكيم هو,ARABIC,جاهل,عاقل,متهور,ساذج,B,1.0,0.25,-4.304065093204168,Easy
+AR024,ما نوع الأسلوب في: لا تهمل واجبك,ARABIC,نهي,أمر,تحذير,استفهام,A,1.0,0.25,-2.3272777055844176,Easy
+AR025,إعراب كلمة طالب في: جاء الطالب مجتهدا,ARABIC,فاعل,مفعول به,خبر,حال,A,1.0,0.25,-1.6094379124341003,Easy
+AR026,جمع كلمة مدينة هو,ARABIC,مدن,مدينون,مدائن,مدينة,A,1.0,0.25,-0.6931471805599453,Medium
+AR027,مرادف كلمة شجاع هو,ARABIC,جبان,مقدام,ضعيف,خائف,B,1.0,0.25,-1.446918982936325,Easy
+AR028,ضد كلمة صادق هو,ARABIC,أمين,كاذب,مخلص,وفي,B,1.0,0.25,-1.01160091167848,Easy
+AR029,ما نوع التفكير في: تخيل الطالب المستقبل,ARABIC,ناقد,خيالي,علمي,منطقي,B,1.0,0.25,-1.01160091167848,Easy
+AR030,ما نوع الأسلوب في: نعم الخلق الصدق,ARABIC,مدح,ذم,تعجب,استفهام,A,1.0,0.25,-1.5314763709643888,Easy
+AR031,ما نوع الخبر في: الصدق منجاة,ARABIC,مفرد,جملة اسمية,جملة فعلية,شبه جملة,A,1.0,0.25,-1.2527629684953683,Easy
+AR032,مرادف كلمة فصيح هو,ARABIC,بليغ,غامض,ضعيف,عامي,A,1.0,0.25,-0.6931471805599453,Medium
+AR033,ضد كلمة نشيط هو,ARABIC,كسول,سريع,مجتهد,حيوي,A,1.0,0.25,-2.3978952727983707,Easy
+AR034,نوع الأسلوب في: هيا إلى العمل,ARABIC,أمر,نهي,نداء,تعجب,A,1.0,0.25,1.1631508098056809,Hard
+AR035,إعراب كلمة جميل في: المنظر جميل,ARABIC,نعت,حال,خبر,مفعول به,C,1.0,0.25,-1.6094379124341003,Easy
+AR036,جمع كلمة طريق هو,ARABIC,طرقات,طرق,طرائق,طريقون,B,1.0,0.25,-0.6931471805599453,Medium
+AR037,مرادف كلمة قوي هو,ARABIC,ضعيف,شديد,واهٍ,لين,B,1.0,0.25,-4.304065093204168,Easy
+AR038,ضد كلمة قديم هو,ARABIC,حديث,عتيق,قديم,أثري,A,1.0,0.25,-1.8718021769015918,Easy
+AR039,ما نوع التفكير في: ربط الأسباب بالنتائج,ARABIC,خيالي,علمي,منطقي,ناقد,C,1.0,0.25,-1.178654996341646,Easy
+AR040,ما نوع الأسلوب في: سبحان الله,ARABIC,تعجب,إنشاء غير طلبي,استفهام,نداء,B,1.0,0.25,1.519825753744413,Hard
+AR041,مرادف كلمة سريع هو,ARABIC,بطيء,خاطف,متأخر,ثابت,B,1.0,0.25,-0.3364722366212129,Medium
+AR042,ضد كلمة نافع هو,ARABIC,مفيد,ضار,صالح,نافع,B,1.0,0.25,-2.3978952727983707,Easy
+AR043,نوع الأسلوب في: لا تكذب,ARABIC,نهي,أمر,تحذير,تعجب,A,1.0,0.25,-1.2527629684953683,Easy
+AR044,إعراب كلمة صادق في: الطالب صادق,ARABIC,نعت,خبر,حال,مفعول به,B,1.0,0.25,-1.446918982936325,Easy
+AR045,جمع كلمة بيت هو,ARABIC,بيوت,أبيات,بيتون,بيتات,A,1.0,0.25,-0.4054651081081641,Medium
+AR046,مرادف كلمة ذكي هو,ARABIC,غبي,فطن,جاهل,بليد,B,1.0,0.25,-0.03509131981126994,Medium
+AR047,ضد كلمة شريف هو,ARABIC,نبيل,وضيع,كريم,عظيم,B,1.0,0.25,-4.304065093204168,Easy
+AR048,ما نوع التفكير في: حل مسألة حسابية,ARABIC,خيالي,علمي,منطقي,ناقد,C,1.0,0.25,0.287682072451781,Medium
+AR049,ما نوع الخبر في: الحق واضح,ARABIC,مفرد,جملة اسمية,جملة فعلية,شبه جملة,A,1.0,0.25,-1.321755839982319,Easy
+AR050,ما نوع الأسلوب في: ما أصدق القول,ARABIC,تعجب,نهي,أمر,استفهام,A,1.0,0.25,-1.6094379124341003,Easy
+AR051,مرادف كلمة كريم هو,ARABIC,بخيل,سخي,فقير,شحيح,B,1.0,0.25,-0.5947071077466924,Medium
+AR052,ضد كلمة واضح هو,ARABIC,جلي,غامض,صريح,بين,B,1.0,0.25,-0.48550781578170094,Medium
+AR053,نوع الأسلوب في: هيا بنا نعمل,ARABIC,أمر,نهي,نداء,تعجب,A,1.0,0.25,4.304065093204168,Hard
+AR054,إعراب كلمة مجتهدا في: عاد الطالب مجتهدا,ARABIC,حال,نعت,خبر,مفعول به,A,1.0,0.25,0.3746934494414106,Medium
+AR055,جمع كلمة علم هو,ARABIC,علوم,أعلام,علمون,علماء,A,1.0,0.25,-0.6931471805599453,Medium
+AR056,مرادف كلمة صبور هو,ARABIC,جزوع,حليم,غضوب,متهور,B,1.0,0.25,-1.7491998548092587,Easy
+AR057,ضد كلمة سعيد هو,ARABIC,فرحان,حزين,مسرور,مبتهج,B,1.0,0.25,-4.304065093204168,Easy
+AR058,ما نوع التفكير في: تحليل مشكلة,ARABIC,خيالي,علمي,منطقي,ناقد,C,1.0,0.25,-0.9409833444645267,Medium
+AR059,ما نوع الخبر في: الطالب ناجح,ARABIC,مفرد,جملة اسمية,جملة فعلية,شبه جملة,A,1.0,0.25,-1.6094379124341003,Easy
+AR060,ما نوع الأسلوب في: نعم الخلق الأمانة,ARABIC,مدح,ذم,تعجب,استفهام,A,1.0,0.25,-0.8649974374866046,Medium
+AR061,مرادف كلمة شجاع هو,ARABIC,جبان,مقدام,ضعيف,خائف,B,1.0,0.25,-4.304065093204168,Easy
+AR062,ضد كلمة نافع هو,ARABIC,مفيد,ضار,صالح,مجد,B,1.0,0.25,-0.8109302162163291,Medium
+AR063,نوع الأسلوب في: لا تهمل دروسك,ARABIC,نهي,أمر,نداء,تعجب,A,1.0,0.25,-0.8649974374866046,Medium
+AR064,إعراب كلمة ناجح في: الطالب ناجح,ARABIC,نعت,خبر,حال,مفعول به,B,1.0,0.25,-1.7491998548092587,Easy
+AR065,جمع كلمة بحر هو,ARABIC,بحور,بحار,بحوران,بحرات,A,1.0,0.25,4.304065093204168,Hard
+AR066,مرادف كلمة فطن هو,ARABIC,غبي,ذكي,جاهل,بليد,B,1.0,0.25,-0.5596157879354228,Medium
+AR067,ضد كلمة كريم هو,ARABIC,سخي,نبيل,بخيل,عظيم,C,1.0,0.25,-4.304065093204168,Easy
+AR068,ما نوع التفكير في: ربط الأفكار ببعضها,ARABIC,خيالي,علمي,منطقي,ناقد,C,1.0,0.25,-0.8649974374866046,Medium
+AR069,ما نوع الخبر في: العلم مفيد,ARABIC,مفرد,جملة اسمية,جملة فعلية,شبه جملة,A,1.0,0.25,-0.060624621816434736,Medium
+AR070,ما نوع الأسلوب في: ما أجمل الصدق,ARABIC,تعجب,نهي,أمر,استفهام,A,1.0,0.25,-4.304065093204168,Easy
+AR071,مرادف كلمة هادئ هو,ARABIC,صاخب,ساكن,غاضب,سريع,B,1.0,0.25,-0.8649974374866046,Medium
+AR072,ضد كلمة قوي هو,ARABIC,شديد,ضعيف,متين,صلب,B,1.0,0.25,-1.3862943611198904,Easy
+AR073,نوع الأسلوب في: احترم معلمك,ARABIC,أمر,نهي,نداء,تعجب,A,1.0,0.25,-1.5314763709643888,Easy
+AR074,إعراب كلمة صادقا في: عاش الرجل صادقا,ARABIC,حال,نعت,خبر,مفعول به,A,1.0,0.25,-0.4382549309311555,Medium
+AR075,جمع كلمة طريق هو,ARABIC,طرق,طرقات,طرائق,طريقون,A,1.0,0.25,-1.8718021769015918,Easy
+AR076,مرادف كلمة متقن هو,ARABIC,مهمل,بارع,ضعيف,كسول,B,1.0,0.25,-0.916290731874155,Medium
+AR077,ضد كلمة شجاع هو,ARABIC,جبان,مقدام,جريء,باسل,A,1.0,0.25,-1.446918982936325,Easy
+AR078,ما نوع التفكير في: مقارنة الأفكار,ARABIC,خيالي,علمي,منطقي,ناقد,C,1.0,0.25,0.6931471805599453,Medium
+AR079,ما نوع الخبر في: الصدق فضيلة,ARABIC,مفرد,جملة اسمية,جملة فعلية,شبه جملة,A,1.0,0.25,-2.3272777055844176,Easy
+AR080,ما نوع الأسلوب في: بئس الخلق الكذب,ARABIC,مدح,ذم,تعجب,استفهام,B,1.0,0.25,-1.8718021769015918,Easy
+AR081,مرادف كلمة عظيم هو,ARABIC,حقير,كبير,جليل,ضئيل,C,1.0,0.25,-0.6931471805599453,Medium
+AR082,ضد كلمة نشيط هو,ARABIC,حيوي,كسول,مجتهد,سريع,B,1.0,0.25,-1.8718021769015918,Easy
+AR083,نوع الأسلوب في: لا تهدر وقتك,ARABIC,نهي,أمر,نداء,تعجب,A,1.0,0.25,0.47000362924573574,Medium
+AR084,إعراب كلمة جميل في: الجو جميل,ARABIC,نعت,خبر,حال,مفعول به,B,1.0,0.25,-1.6094379124341003,Easy
+AR085,جمع كلمة علم هو,ARABIC,علوم,أعلام,علمون,علماء,A,1.0,0.25,-0.48550781578170094,Medium
+AR086,مرادف كلمة سريع هو,ARABIC,بطيء,خاطف,متأخر,ثابت,B,1.0,0.25,0.3746934494414106,Medium
+AR087,ضد كلمة نافع هو,ARABIC,مفيد,ضار,صالح,نافع,B,1.0,0.25,-1.5314763709643888,Easy
+AR088,ما نوع التفكير في: استنتاج النتائج,ARABIC,خيالي,علمي,منطقي,ناقد,C,1.0,0.25,-0.5306282510621704,Medium
+AR089,ما نوع الخبر في: الطالب مجتهد,ARABIC,مفرد,جملة اسمية,جملة فعلية,شبه جملة,A,1.0,0.25,-1.6094379124341003,Easy
+AR090,ما نوع الأسلوب في: نعم الخلق الصدق,ARABIC,مدح,ذم,تعجب,استفهام,A,1.0,0.25,-1.178654996341646,Easy
+SC001,أي مما يلي يعد وحدة البناء الأساسية في الكائنات الحية؟,SCIENCE,النسيج,الخلية,العضو,الجهاز,B,1.0,0.25,-1.139434283188365,Easy
+SC002,أي مما يلي يحدث عند انقسام الخلية انقسامًا متساويًا؟,SCIENCE,زيادة حجم الخلية,تكوين خلايا جنسية,تكوين خليتين متماثلتين,اختفاء النواة,C,1.0,0.25,-4.304065093204168,Easy
+SC003,الوظيفة الأساسية للميتوكوندريا هي:,SCIENCE,تخزين الماء,إنتاج الطاقة,البناء الضوئي,نقل البروتين,B,1.0,0.25,-1.446918982936325,Easy
+SC004,أي مما يلي يعد مثالًا على تفاعل كيميائي؟,SCIENCE,انصهار الثلج,تبخر الماء,احتراق الخشب,تكسر الزجاج,C,1.0,0.25,-0.22314355131420957,Medium
+SC005,العنصر الذي رمزه الكيميائي O هو:,SCIENCE,الهيدروجين,الأكسجين,النيتروجين,الكربون,B,1.0,0.25,-2.5257286443082547,Easy
+SC006,أي من الحالات الآتية تزداد فيها سرعة التفاعل الكيميائي؟,SCIENCE,انخفاض درجة الحرارة,زيادة مساحة السطح,نقص التركيز,انعدام العامل الحفاز,B,1.0,0.25,-2.4638532405901676,Easy
+SC007,وحدة قياس القوة في النظام الدولي هي:,SCIENCE,الجول,الواط,النيوتن,الأمبير,C,1.0,0.25,0.6931471805599453,Medium
+SC008,عند زيادة الكتلة وثبات القوة فإن العجلة:,SCIENCE,تزداد,تقل,تثبت,تنعدم,B,1.0,0.25,-0.8109302162163291,Medium
+SC009,أي مما يلي يعد طاقة وضع؟,SCIENCE,السيارة المتحركة,الماء خلف السد,الرياح,الصوت,B,1.0,0.25,-0.4382549309311555,Medium
+SC010,المسار الذي تسلكه الأرض حول الشمس يسمى:,SCIENCE,الدوران,المحور,المدار,المسافة,C,1.0,0.25,0.6931471805599453,Medium
+SC011,الدم الذي يحمل الأكسجين من القلب إلى الجسم هو:,SCIENCE,الدم الوريدي,الدم الشرياني,الدم المختلط,الدم اللمفي,B,1.0,0.25,-0.8109302162163291,Medium
+SC012,أي مما يلي يساهم في حماية الجسم من الأمراض؟,SCIENCE,كرات الدم البيضاء,كرات الدم الحمراء,الصفائح الدموية,البلازما,A,1.0,0.25,-0.09531017980432514,Medium
+SC013,أي مما يلي يعد تغيرًا فيزيائيًا؟,SCIENCE,صدأ الحديد,احتراق الورق,تقطيع الخشب,تعفن الطعام,C,1.0,0.25,1.1631508098056809,Hard
+SC014,عدد الإلكترونات في الذرة المتعادلة يساوي عدد:,SCIENCE,البروتونات,النيوترونات,المستويات,الأيونات,A,1.0,0.25,0.9007865453381897,Medium
+SC015,أي مما يلي يزيد من شدة التيار الكهربائي؟,SCIENCE,زيادة المقاومة,تقليل الجهد,زيادة الجهد,زيادة طول السلك,C,1.0,0.25,0.6931471805599453,Medium
+SC016,الجهاز المسؤول عن تبادل الغازات في الإنسان هو:,SCIENCE,الهضمي,الدوري,التنفسي,العصبي,C,1.0,0.25,-1.01160091167848,Easy
+SC017,أي من الآتي يعد كائنًا ذاتي التغذية؟,SCIENCE,الإنسان,الفطر,النبات الأخضر,الحيوان,C,1.0,0.25,-1.446918982936325,Easy
+SC018,عملية فقد الماء على هيئة بخار من أوراق النبات تسمى:,SCIENCE,النتح,الامتصاص,الإخراج,التنفس,A,1.0,0.25,-1.2527629684953683,Easy
+SC019,أي مما يلي يعد حمضًا؟,SCIENCE,NaOH,HCl,NaCl,H2O,B,1.0,0.25,-1.01160091167848,Easy
+SC020,العنصر الفلزي الوحيد السائل في درجة حرارة الغرفة هو:,SCIENCE,الحديد,الصوديوم,الزئبق,النحاس,C,1.0,0.25,-4.304065093204168,Easy
+SC021,الجزء المسؤول عن التحكم في جميع أنشطة الخلية هو:,SCIENCE,الجدار الخلوي,الميتوكوندريا,النواة,الريبوسوم,C,1.0,0.25,0.0,Medium
+SC022,أي مما يلي يعد مثالًا على التغير الكيميائي؟,SCIENCE,كسر الزجاج,ذوبان السكر,احتراق الفحم,تجمد الماء,C,1.0,0.25,0.6931471805599453,Medium
+SC023,القوة التي تجذب الأجسام نحو مركز الأرض تسمى:,SCIENCE,الاحتكاك,الدفع,الجاذبية,الشد,C,1.0,0.25,-4.304065093204168,Easy
+SC024,العنصر الذي عدده الذري 1 هو:,SCIENCE,الأكسجين,الهيليوم,الهيدروجين,النيتروجين,C,1.0,0.25,-1.0986122886681098,Easy
+SC025,أي مما يلي يصف حركة الإلكترونات حول النواة؟,SCIENCE,عشوائية تمامًا,ثابتة لا تتحرك,في مستويات طاقة,داخل النواة,C,1.0,0.25,0.287682072451781,Medium
+SC026,الجهاز الذي ينسق بين أعضاء الجسم هو:,SCIENCE,الدوري,العصبي,الهضمي,التنفسي,B,1.0,0.25,0.287682072451781,Medium
+SC027,زيادة سرعة الجسم تعني:,SCIENCE,نقص طاقته الحركية,ثبات طاقته,زيادة طاقته الحركية,انعدام طاقته,C,1.0,0.25,-1.7491998548092587,Easy
+SC028,أي مما يلي يعد قاعدة غذائية رئيسية؟,SCIENCE,الفيتامينات,الأملاح المعدنية,الكربوهيدرات,الماء,C,1.0,0.25,0.287682072451781,Medium
+SC029,المادة التي تتكون من نوع واحد من الذرات تسمى:,SCIENCE,مركب,مخلوط,عنصر,محلول,C,1.0,0.25,-1.01160091167848,Easy
+SC030,أي مما يلي يقلل من قوة الاحتكاك؟,SCIENCE,زيادة خشونة السطح,زيادة الوزن,تزييت السطح,زيادة السرعة,C,1.0,0.25,0.6931471805599453,Medium
+SC031,العظام التي تتكون منها الذراع هي:,SCIENCE,قصيرة,مسطحة,طويلة,غير منتظمة,C,1.0,0.25,-0.22314355131420957,Medium
+SC032,العلاقة بين الجهد وشدة التيار علاقة:,SCIENCE,عكسية,طردية,ثابتة,غير منتظمة,B,1.0,0.25,-1.2527629684953683,Easy
+SC033,أي مما يلي مسؤول عن نقل الصفات الوراثية؟,SCIENCE,الريبوسومات,الكروموسومات,الميتوكوندريا,الجدار الخلوي,B,1.0,0.25,-1.2527629684953683,Easy
+SC034,أي من الآتي يعد محلولًا؟,SCIENCE,الهواء,السكر,الملح,الحديد,C,1.0,0.25,4.304065093204168,Hard
+SC035,وحدة قياس الجهد الكهربائي هي:,SCIENCE,الأمبير,الأوم,الفولت,الواط,C,1.0,0.25,-0.3629054936893683,Medium
+SC036,الجزء الذي يمتص الماء والأملاح في النبات هو:,SCIENCE,الساق,الأوراق,الجذر,الثمرة,C,1.0,0.25,-2.2512917986064958,Easy
+SC037,زيادة درجة الحرارة تؤدي إلى:,SCIENCE,نقص حركة الجزيئات,ثبات الحركة,زيادة حركة الجزيئات,توقف الحركة,C,1.0,0.25,-2.1690537003695236,Easy
+SC038,أي مما يلي يعد مثالًا على الطاقة الكيميائية؟,SCIENCE,المصباح الكهربائي,الوقود,الصوت,الحرارة,B,1.0,0.25,-0.48550781578170094,Medium
+SC039,القلب عضو ينتمي إلى جهاز:,SCIENCE,التنفسي,الهضمي,الدوري,العصبي,C,1.0,0.25,-0.3364722366212129,Medium
+SC040,العنصر الذي يستخدم في صناعة الأسلاك الكهربائية هو:,SCIENCE,الزجاج,الخشب,النحاس,البلاستيك,C,1.0,0.25,-1.01160091167848,Easy
+SC041,أي مما يلي يمثل وحدة الوراثة في الكائن الحي؟,SCIENCE,الخلية,الكروموسوم,الجين,النسيج,C,1.0,0.25,0.287682072451781,Medium
+SC042,أي مما يلي يحدث عند زيادة الضغط على الغاز؟,SCIENCE,يزداد حجمه,يقل حجمه,تثبت كثافته,يتحول لسائل,B,1.0,0.25,-0.48550781578170094,Medium
+SC043,العنصر الذي يكوّن معظم مكونات الهواء هو:,SCIENCE,الأكسجين,ثاني أكسيد الكربون,النيتروجين,الهيدروجين,C,1.0,0.25,-0.11778303565638364,Medium
+SC044,الجهاز المسؤول عن ضبط توازن الجسم هو:,SCIENCE,العصبي,العضلي,الدوري,الهيكلي,A,1.0,0.25,0.47000362924573574,Medium
+SC045,أي مما يلي يعد مثالًا على تغير فيزيائي؟,SCIENCE,تعفن الطعام,احتراق الخشب,ذوبان الملح,صدأ الحديد,C,1.0,0.25,1.791759469228055,Hard
+SC046,العلاقة بين السرعة والزمن عند ثبوت المسافة علاقة:,SCIENCE,طردية,عكسية,ثابتة,غير منتظمة,B,1.0,0.25,-0.9409833444645267,Medium
+SC047,أي مما يلي يدخل في تركيب العظام؟,SCIENCE,الكالسيوم,الصوديوم,البوتاسيوم,الحديد,A,1.0,0.25,-1.5040773967762742,Easy
+SC048,العامل الذي يغير سرعة الجسم أو اتجاهه هو:,SCIENCE,الزمن,الكتلة,القوة,الحجم,C,1.0,0.25,-0.22314355131420957,Medium
+SC049,أي مما يلي يعد مركبًا كيميائيًا؟,SCIENCE,الحديد,الأكسجين,الماء,الهواء,C,1.0,0.25,1.7227665977411035,Hard
+SC050,الجهاز الذي يخلص الجسم من ثاني أكسيد الكربون هو:,SCIENCE,الدوري,الهضمي,التنفسي,العصبي,C,1.0,0.25,-2.0794415416798353,Easy
+SC051,زيادة عدد الريبوسومات في الخلية يدل على:,SCIENCE,زيادة التنفس,زيادة الانقسام,زيادة تصنيع البروتين,زيادة الإخراج,C,1.0,0.25,0.9343092373768331,Medium
+SC052,وحدة قياس الطاقة الحرارية هي:,SCIENCE,النيوتن,الجول,الأمبير,الواط,B,1.0,0.25,-0.6931471805599453,Medium
+SC053,أي مما يلي من خصائص السوائل؟,SCIENCE,حجم وشكل ثابت,حجم ثابت وشكل متغير,شكل ثابت وحجم متغير,قابلة للانضغاط,B,1.0,0.25,-2.1690537003695236,Easy
+SC054,العنصر الذي يدخل في صناعة البطاريات هو:,SCIENCE,النحاس,الزنك,الحديد,الألومنيوم,B,1.0,0.25,0.9808292530117262,Medium
+SC055,القوة الناتجة عن تلامس سطحين تسمى:,SCIENCE,الشد,الدفع,الاحتكاك,الجاذبية,C,1.0,0.25,-1.7491998548092587,Easy
+SC056,الجزء المسؤول عن امتصاص الغذاء في الإنسان هو:,SCIENCE,المعدة,الأمعاء الدقيقة,الأمعاء الغليظة,المريء,B,1.0,0.25,0.6931471805599453,Medium
+SC057,أي مما يلي يزيد من سرعة التفاعل الكيميائي؟,SCIENCE,خفض الحرارة,تقليل التركيز,زيادة الحرارة,نقص السطح,C,1.0,0.25,-2.3272777055844176,Easy
+SC058,المسار الذي تتحرك فيه الإلكترونات يسمى:,SCIENCE,المدار,المستوى,النواة,المجال,A,1.0,0.25,4.304065093204168,Hard
+SC059,النسيج الذي يغطي الجسم ويحميه هو:,SCIENCE,الضام,العضلي,العصبي,الطلائي,D,1.0,0.25,0.47000362924573574,Medium
+SC060,أي مما يلي يعد مثالًا على طاقة صوتية؟,SCIENCE,الضوء,الرعد,الحرارة,الرياح,B,1.0,0.25,-0.6931471805599453,Medium
+SC061,الجزء المسؤول عن نقل الأوامر من المخ إلى العضلات هو:,SCIENCE,الأعصاب الحسية,الأعصاب الحركية,الشعيرات الدموية,الأوتار,B,1.0,0.25,0.287682072451781,Medium
+SC062,أي مما يلي يؤدي إلى زيادة الضغط؟,SCIENCE,زيادة الحجم,نقص عدد الجزيئات,زيادة القوة المؤثرة,خفض درجة الحرارة,C,1.0,0.25,0.287682072451781,Medium
+SC063,العنصر الذي يدخل في تكوين الماء هو:,SCIENCE,النيتروجين,الهيدروجين,الكلور,الصوديوم,B,1.0,0.25,-4.304065093204168,Easy
+SC064,الجهاز الذي يحمي الجسم من الميكروبات هو:,SCIENCE,الهضمي,المناعي,العصبي,الهيكلي,B,1.0,0.25,-4.304065093204168,Easy
+SC065,أي مما يلي يعد مثالًا على التغير الفيزيائي؟,SCIENCE,احتراق الورق,ذوبان الثلج,تعفن الطعام,تفاعل الحمض مع القاعدة,B,1.0,0.25,0.051293294387550266,Medium
+SC066,العلاقة بين الشغل والقوة عند ثبوت المسافة علاقة:,SCIENCE,طردية,عكسية,ثابتة,منعدمة,A,1.0,0.25,-0.2954642128938362,Medium
+SC067,العنصر الذي يساعد على تجلط الدم هو:,SCIENCE,الحديد,الكالسيوم,الصوديوم,البوتاسيوم,B,1.0,0.25,1.7227665977411035,Hard
+SC068,القوة التي تنشأ نتيجة حركة الهواء تسمى:,SCIENCE,الاحتكاك,الضغط الجوي,الرياح,الدفع,C,1.0,0.25,-0.060624621816434736,Medium
+SC069,أي مما يلي يعد محلولًا متجانسًا؟,SCIENCE,الزيت والماء,الرمل والماء,الهواء,الطين,C,1.0,0.25,4.304065093204168,Hard
+SC070,العضو المسؤول عن إخراج البول هو:,SCIENCE,الكبد,المثانة,الرئة,المعدة,B,1.0,0.25,-1.7491998548092587,Easy
+SC071,زيادة عدد الكروموسومات في الخلية ينتج عن:,SCIENCE,الانقسام المتساوي,الانقسام الميوزي,خلل في الانقسام,النمو,C,1.0,0.25,4.304065093204168,Hard
+SC072,وحدة قياس المقاومة الكهربائية هي:,SCIENCE,الفولت,الأمبير,الأوم,الواط,C,1.0,0.25,-0.6931471805599453,Medium
+SC073,أي مما يلي من خصائص المواد الصلبة؟,SCIENCE,شكل وحجم ثابت,شكل ثابت وحجم متغير,شكل متغير وحجم ثابت,قابلة للانضغاط,A,1.0,0.25,-0.7654678421395712,Medium
+SC074,العنصر الذي يستخدم في صناعة الأسلاك لمرونته هو:,SCIENCE,الحديد,النحاس,الزنك,الألومنيوم,B,1.0,0.25,-0.7827593392496321,Medium
+SC075,القوة التي تمنع انزلاق الأجسام تسمى:,SCIENCE,الجاذبية,الاحتكاك,الشد,الدفع,B,1.0,0.25,-0.7827593392496321,Medium
+SC076,الجزء المسؤول عن هضم البروتينات في المعدة هو:,SCIENCE,الأميليز,البيبسين,الليباز,المالتيز,B,1.0,0.25,0.4989911661189879,Medium
+SC077,أي مما يلي يقلل من سرعة التفاعل الكيميائي؟,SCIENCE,زيادة التركيز,إضافة عامل حفاز,خفض درجة الحرارة,زيادة مساحة السطح,C,1.0,0.25,-0.8649974374866046,Medium
+SC078,المسافة الكلية التي يقطعها الجسم تسمى:,SCIENCE,الإزاحة,السرعة,المسافة,العجلة,C,1.0,0.25,0.051293294387550266,Medium
+SC079,النسيج الذي يربط العضلات بالعظام هو:,SCIENCE,الرباط,الوتر,الغضروف,النسيج الضام,B,1.0,0.25,1.791759469228055,Hard
+SC080,أي مما يلي يعد مصدرًا للطاقة الشمسية؟,SCIENCE,الرياح,الأمواج,الشمس,الفحم,C,1.0,0.25,-0.8649974374866046,Medium
+SC081,العنصر الذي يدخل في تركيب الهيموجلوبين هو:,SCIENCE,الصوديوم,الحديد,الكالسيوم,الكلور,B,1.0,0.25,2.079441541679836,Hard
+SC082,العلاقة بين الحجم والضغط علاقة:,SCIENCE,طردية,عكسية,ثابتة,غير منتظمة,B,1.0,0.25,-1.2527629684953683,Easy
+SC083,المادة التي تستقبل البروتونات تسمى:,SCIENCE,حمض,قاعدة,ملح,مذيب,B,1.0,0.25,4.304065093204168,Hard
+SC084,الجزء المسؤول عن الإحساس بالحرارة هو:,SCIENCE,الأعصاب الحسية,الأعصاب الحركية,العضلات,الأوتار,A,1.0,0.25,-2.0794415416798353,Easy
+SC085,أي مما يلي يعد قوة غير تلامسية؟,SCIENCE,الاحتكاك,الشد,الجاذبية,الدفع,C,1.0,0.25,-1.7491998548092587,Easy
+SC086,عدد الأسنان الدائمة في الإنسان البالغ هو:,SCIENCE,28,30,32,34,C,1.0,0.25,-0.48550781578170094,Medium
+SC087,العنصر الذي يستخدم في تعقيم الجروح هو:,SCIENCE,اليود,الكلور,الفلور,البروم,A,1.0,0.25,3.4657359027997274,Hard
+SC088,الجهاز الذي ينقل الغذاء المهضوم إلى الخلايا هو:,SCIENCE,الهضمي,الدوري,العصبي,الإخراجي,B,1.0,0.25,-0.48550781578170094,Medium
+SC089,أي مما يلي يسبب تمدد السوائل؟,SCIENCE,خفض الحرارة,زيادة الضغط,زيادة الحرارة,الاحتكاك,C,1.0,0.25,-0.22314355131420957,Medium
+SC090,المركب الذي ينتج من اتحاد فلز ولافلز يسمى:,SCIENCE,مخلوط,محلول,مركب أيوني,مركب تساهمي,C,1.0,0.25,-0.8649974374866046,Medium
+EN001,Choose the correct form: She ____ English very well.,ENGLISH,speak,speaks,speaking,spoken,B,1.0,0.25,-1.446918982936325,Easy
+EN002,Choose the correct sentence:,ENGLISH,He don't like football.,He doesn't like football.,He didn't like football now.,He not likes football.,B,1.0,0.25,-1.01160091167848,Easy
+EN003,Choose the correct plural: mouse →,ENGLISH,mouses,mice,mousees,mic,B,1.0,0.25,0.4989911661189879,Medium
+EN004,Choose the correct form: They ____ finished the test.,ENGLISH,has,have,having,had,B,1.0,0.25,0.6931471805599453,Medium
+EN005,Choose the correct comparative: tall →,ENGLISH,taller,more tall,tallest,most tall,A,1.0,0.25,-1.8718021769015918,Easy
+EN006,Choose the correct sentence:,ENGLISH,I am agree with you.,I agree with you.,I agreeing with you.,I agrees with you.,B,1.0,0.25,-0.22314355131420957,Medium
+EN007,Choose the correct question form:,ENGLISH,What you are doing?,What are you doing?,What doing you?,What you doing?,B,1.0,0.25,-1.139434283188365,Easy
+EN008,Choose the correct form: She ____ play the piano.,ENGLISH,can,must,should,need,A,1.0,0.25,0.051293294387550266,Medium
+EN009,Choose the correct negative: He was late.,ENGLISH,He wasn't late.,He didn't late.,He not was late.,He isn't late.,A,1.0,0.25,-0.6931471805599453,Medium
+EN010,Choose the correct sentence:,ENGLISH,There is many students.,There are many students.,There be many students.,There were many student.,B,1.0,0.25,0.051293294387550266,Medium
+EN011,Choose the correct form: He ____ TV every evening.,ENGLISH,watch,watches,watching,watched,B,1.0,0.25,-0.6931471805599453,Medium
+EN012,Choose the correct word: I am very ____ in learning English.,ENGLISH,interest,interesting,interested,interests,C,1.0,0.25,0.9808292530117262,Medium
+EN013,Choose the correct sentence:,ENGLISH,She didn't went to school.,She didn't go to school.,She doesn't went to school.,She not go to school.,B,1.0,0.25,0.13353139262452277,Medium
+EN014,Choose the correct synonym of (happy):,ENGLISH,Sad,Angry,Glad,Hungry,C,1.0,0.25,-1.6094379124341003,Easy
+EN015,Choose the correct form: We ____ already finished the exam.,ENGLISH,has,have,having,had,B,1.0,0.25,-4.304065093204168,Easy
+EN016,Choose the correct antonym of (big):,ENGLISH,Large,Huge,Small,Wide,C,1.0,0.25,-4.304065093204168,Easy
+EN017,Choose the correct sentence:,ENGLISH,He is good in math.,He is good at math.,He good at math.,He is good on math.,B,1.0,0.25,0.5389965007326872,Medium
+EN018,Choose the correct form: She ____ to the music now.,ENGLISH,listen,listens,is listening,listened,C,1.0,0.25,-0.7827593392496321,Medium
+EN019,Choose the correct word: This exercise is very ____.,ENGLISH,easy,easily,easier,easiest,A,1.0,0.25,0.5212969236332861,Medium
+EN020,Choose the correct question form:,ENGLISH,Did you finished your homework?,Do you finished your homework?,Did you finish your homework?,Have you finish your homework?,C,1.0,0.25,-1.3545456628053103,Easy
+EN021,Choose the correct form: They ____ to school by bus.,ENGLISH,go,goes,going,gone,A,1.0,0.25,-1.9810014688665831,Easy
+EN022,Choose the correct word: This movie is very ____.,ENGLISH,bore,boring,bored,bores,B,1.0,0.25,-0.48550781578170094,Medium
+EN023,Choose the correct sentence:,ENGLISH,He has finished his work.,He have finished his work.,He finishing his work.,He finished his work now.,A,1.0,0.25,-0.5306282510621704,Medium
+EN024,Choose the correct synonym of (fast):,ENGLISH,Slow,Quick,Late,Weak,B,1.0,0.25,-1.8718021769015918,Easy
+EN025,Choose the correct form: I ____ seen this film before.,ENGLISH,has,have,having,had,B,1.0,0.25,1.0498221244986778,Hard
+EN026,Choose the correct antonym of (old):,ENGLISH,Ancient,Young,Big,Long,B,1.0,0.25,-0.6931471805599453,Medium
+EN027,Choose the correct sentence:,ENGLISH,She is married with him.,She is married to him.,She married with him.,She married to him.,B,1.0,0.25,0.3364722366212129,Medium
+EN028,Choose the correct form: Look! The baby ____.,ENGLISH,cry,cries,is crying,cried,C,1.0,0.25,0.8556661100577204,Medium
+EN029,Choose the correct word: He speaks English very ____.,ENGLISH,good,well,better,best,B,1.0,0.25,0.1967102942460541,Medium
+EN030,Choose the correct question form:,ENGLISH,Where did you went?,Where you did go?,Where did you go?,Where you go?,C,1.0,0.25,-0.3629054936893683,Medium
+EN031,Choose the correct form: He ____ his homework before dinner.,ENGLISH,finish,finishes,has finished,is finish,C,1.0,0.25,0.22314355131420957,Medium
+EN032,Choose the correct word: I felt very ____ after the long trip.,ENGLISH,tire,tired,tires,tiring,B,1.0,0.25,-1.8718021769015918,Easy
+EN033,Choose the correct sentence:,ENGLISH,There is much cars.,There are many cars.,There is many cars.,There were much cars.,B,1.0,0.25,-1.139434283188365,Easy
+EN034,Choose the correct synonym of (angry):,ENGLISH,Happy,Furious,Calm,Pleased,B,1.0,0.25,-1.01160091167848,Easy
+EN035,Choose the correct form: She ____ be late today.,ENGLISH,must,can,should,might,D,1.0,0.25,0.3746934494414106,Medium
+EN036,Choose the correct antonym of (early):,ENGLISH,Fast,Soon,Late,Quick,C,1.0,0.25,-0.48550781578170094,Medium
+EN037,Choose the correct sentence:,ENGLISH,He apologized for be late.,He apologized to be late.,He apologized for being late.,He apologized being late.,C,1.0,0.25,0.9343092373768331,Medium
+EN038,"Choose the correct form: If it rains, we ____ at home.",ENGLISH,stay,stays,will stay,stayed,C,1.0,0.25,-2.1690537003695236,Easy
+EN039,Choose the correct word: This is the ____ movie I have ever seen.,ENGLISH,more interesting,most interesting,very interesting,much interesting,B,1.0,0.25,-1.178654996341646,Easy
+EN040,"Choose the correct question tag: She is coming, ____?",ENGLISH,is she,isn't she,does she,doesn't she,B,1.0,0.25,4.0253516907351505,Hard
+EN041,Choose the correct form: We ____ dinner when he arrived.,ENGLISH,eat,were eating,are eating,ate,B,1.0,0.25,-0.09531017980432514,Medium
+EN042,Choose the correct word: She speaks very ____.,ENGLISH,confident,confidence,confidently,confidented,C,1.0,0.25,3.2580965380214817,Hard
+EN043,Choose the correct sentence:,ENGLISH,I am used to wake up early.,I used to wake up early.,I use to wake up early.,I am use to wake up early.,B,1.0,0.25,-4.304065093204168,Easy
+EN044,Choose the correct synonym of (smart):,ENGLISH,Stupid,Clever,Lazy,Weak,B,1.0,0.25,-0.916290731874155,Medium
+EN045,Choose the correct form: He ____ play football yesterday.,ENGLISH,doesn't,didn't,isn't,wasn't,B,1.0,0.25,-1.2527629684953683,Easy
+EN046,Choose the correct antonym of (clean):,ENGLISH,Pure,Dirty,Clear,Bright,B,1.0,0.25,-0.48550781578170094,Medium
+EN047,Choose the correct sentence:,ENGLISH,She insisted to go.,She insisted going.,She insisted on going.,She insisted go.,C,1.0,0.25,0.9343092373768331,Medium
+EN048,"Choose the correct form: By next year, I ____ my studies.",ENGLISH,finish,will finish,will have finished,finished,C,1.0,0.25,2.302585092994046,Hard
+EN049,Choose the correct word: This bag is ____ than that one.,ENGLISH,heavy,heavier,heaviest,most heavy,B,1.0,0.25,-1.2527629684953683,Easy
+EN050,Choose the correct question form:,ENGLISH,How long you have lived here?,How long have you lived here?,How long did you lived here?,How long you lived here?,B,1.0,0.25,-0.4382549309311555,Medium
+EN051,Choose the correct form: The letter ____ yesterday.,ENGLISH,is sent,was sent,has sent,sent,B,1.0,0.25,-1.0986122886681098,Easy
+EN052,Choose the correct word: He answered the question ____.,ENGLISH,polite,politely,politeness,politer,B,1.0,0.25,-1.01160091167848,Easy
+EN053,Choose the correct sentence:,ENGLISH,She enjoys to read novels.,She enjoys reading novels.,She enjoy reading novels.,She enjoying novels.,B,1.0,0.25,0.051293294387550266,Medium
+EN054,Choose the correct synonym of (begin):,ENGLISH,Finish,Start,Close,End,B,1.0,0.25,-4.304065093204168,Easy
+EN055,"Choose the correct form: If I ____ rich, I would travel.",ENGLISH,am,was,were,will be,C,1.0,0.25,1.3862943611198904,Hard
+EN056,Choose the correct antonym of (cheap):,ENGLISH,Low,Expensive,Small,Easy,B,1.0,0.25,-1.927891643552635,Easy
+EN057,Choose the correct sentence:,ENGLISH,He accused me of steal.,He accused me to steal.,He accused me of stealing.,He accused stealing me.,C,1.0,0.25,0.0,Medium
+EN058,Choose the correct form: She ____ for two hours before he arrived.,ENGLISH,waited,has waited,had been waiting,is waiting,C,1.0,0.25,4.304065093204168,Hard
+EN059,Choose the correct word: This problem is too ____ to solve.,ENGLISH,difficulty,difficult,difficultly,more difficult,B,1.0,0.25,-1.5314763709643888,Easy
+EN060,"Choose the correct question tag: They finished early, ____?",ENGLISH,did they,didn't they,have they,haven't they,B,1.0,0.25,1.7227665977411035,Hard
+EN061,Choose the correct form: The homework ____ by the student.,ENGLISH,is done,was doing,has do,did,A,1.0,0.25,-1.7491998548092587,Easy
+EN062,Choose the correct word: She spoke very ____ during the meeting.,ENGLISH,clear,clearly,clearness,cleared,B,1.0,0.25,1.3862943611198904,Hard
+EN063,Choose the correct sentence:,ENGLISH,He said that he is tired.,He said that he was tired.,He said that he tired.,He said that was tired.,B,1.0,0.25,0.0,Medium
+EN064,Choose the correct synonym of (important):,ENGLISH,Useless,Necessary,Weak,Minor,B,1.0,0.25,-0.6931471805599453,Medium
+EN065,Choose the correct form: This is the boy ____ won the prize.,ENGLISH,which,whom,who,whose,C,1.0,0.25,-0.8109302162163291,Medium
+EN066,Choose the correct antonym of (safe):,ENGLISH,Secure,Dangerous,Protected,Careful,B,1.0,0.25,-1.6094379124341003,Easy
+EN067,Choose the correct sentence:,ENGLISH,She asked me where was I going.,She asked me where I was going.,She asked me where am I going.,She asked me where I going.,B,1.0,0.25,-0.4382549309311555,Medium
+EN068,Choose the correct form: He ____ living here since 2015.,ENGLISH,is,has been,was,had been,B,1.0,0.25,0.4989911661189879,Medium
+EN069,Choose the correct word: This solution is very ____.,ENGLISH,use,useful,uselessly,using,B,1.0,0.25,-1.6094379124341003,Easy
+EN070,"Choose the correct question tag: He can't drive, ____?",ENGLISH,can he,can't he,does he,doesn't he,A,1.0,0.25,-0.6931471805599453,Medium
+EN071,"Choose the correct form: If he ____ harder, he would succeed.",ENGLISH,works,worked,will work,is working,B,1.0,0.25,-1.2527629684953683,Easy
+EN072,Choose the correct word: She was ____ about the result.,ENGLISH,anxiety,anxious,anxiously,anxieties,B,1.0,0.25,-1.7491998548092587,Easy
+EN073,Choose the correct sentence:,ENGLISH,Neither of them are ready.,Neither of them is ready.,Neither of them were ready.,Neither of them be ready.,B,1.0,0.25,-0.22314355131420957,Medium
+EN074,Choose the correct synonym of (allow):,ENGLISH,Permit,Refuse,Prevent,Deny,A,1.0,0.25,0.5212969236332861,Medium
+EN075,Choose the correct form: The car needs ____.,ENGLISH,repair,to repair,repairing,repaired,C,1.0,0.25,0.6931471805599453,Medium
+EN076,Choose the correct antonym of (strong):,ENGLISH,Powerful,Weak,Solid,Hard,B,1.0,0.25,-1.9810014688665831,Easy
+EN077,Choose the correct sentence:,ENGLISH,She suggested to go out.,She suggested going out.,She suggested go out.,She suggested that going out.,B,1.0,0.25,2.079441541679836,Hard
+EN078,Choose the correct form: I look forward to ____ you.,ENGLISH,see,seeing,seen,saw,B,1.0,0.25,0.0,Medium
+EN079,Choose the correct word: This is the ____ answer.,ENGLISH,correct,correctly,correction,correctness,A,1.0,0.25,-1.7491998548092587,Easy
+EN080,"Choose the correct question tag: Nobody called, ____?",ENGLISH,did they,didn't they,did he,didn't he,A,1.0,0.25,1.519825753744413,Hard
+EN081,Choose the correct form: He behaves ____ than his brother.,ENGLISH,polite,more polite,most polite,politely,B,1.0,0.25,0.07410797215372163,Medium
+EN082,Choose the correct word: I couldn't ____ what he said.,ENGLISH,hear,listen,sound,noise,A,1.0,0.25,-0.03509131981126994,Medium
+EN083,Choose the correct sentence:,ENGLISH,She has been living here since five years.,She has been living here for five years.,She lived here since five years.,She is living here since five years.,B,1.0,0.25,0.3746934494414106,Medium
+EN084,Choose the correct synonym of (repair):,ENGLISH,Fix,Break,Damage,Destroy,A,1.0,0.25,-1.2527629684953683,Easy
+EN085,Choose the correct form: The match was cancelled ____ the rain.,ENGLISH,because,because of,although,despite,B,1.0,0.25,0.6931471805599453,Medium
+EN086,Choose the correct antonym of (early):,ENGLISH,Soon,Fast,Late,Quick,C,1.0,0.25,-0.8649974374866046,Medium
+EN087,Choose the correct sentence:,ENGLISH,He warned me not touch the wire.,He warned me not to touch the wire.,He warned me to not touch the wire.,He warned me don't touch the wire.,B,1.0,0.25,0.8556661100577204,Medium
+EN088,"Choose the correct form: By the time we arrived, they ____.",ENGLISH,left,had left,have left,were leaving,B,1.0,0.25,-0.22314355131420957,Medium
+EN089,Choose the correct word: This explanation is very ____.,ENGLISH,clarity,clear,clearly,cleared,B,1.0,0.25,-0.6931471805599453,Medium
+EN090,"Choose the correct question tag: Let's start now, ____?",ENGLISH,shall we,will we,do we,don't we,A,1.0,0.25,-0.22314355131420957,Medium
+MA001,إذا كان 2x + 5 = 13 فإن قيمة x تساوي:,MATH,2,3,4,5,B,1.0,0.25,4.304065093204168,Hard
+MA002,إذا كان x² = 16 فإن قيمة x تساوي:,MATH,2,4,±4,8,C,1.0,0.25,0.07410797215372163,Medium
+MA003,إذا كانت النسبة بين عددين 3 : 5 ومجموعهما 40 فإن العدد الأكبر يساوي:,MATH,15,20,25,30,C,1.0,0.25,-0.22314355131420957,Medium
+MA004,إذا كان (x − 2)(x + 3) = 0 فإن قيم x هي:,MATH,2 فقط,−3 فقط,2 أو −3,5,C,1.0,0.25,-2.1690537003695236,Easy
+MA005,ناتج 3² + 4² يساوي:,MATH,7,25,49,14,B,1.0,0.25,-4.304065093204168,Easy
+MA006,إذا كان محيط مربع يساوي 20 سم فإن طول ضلعه يساوي:,MATH,4,5,6,10,B,1.0,0.25,-2.1690537003695236,Easy
+MA007,مجموع زوايا المثلث يساوي:,MATH,90°,180°,270°,360°,B,1.0,0.25,-4.304065093204168,Easy
+MA008,إذا كان المتوسط الحسابي لعددين هو 10 ومجموعهما 20 فإن العددين هما:,MATH,5 و 15,8 و 12,10 و 10,6 و 14,C,1.0,0.25,4.304065093204168,Hard
+MA009,ناتج 5! يساوي:,MATH,20,60,120,24,C,1.0,0.25,0.8556661100577204,Medium
+MA010,إذا كان نصف قطر الدائرة 7 سم فإن قطرها يساوي:,MATH,7,14,21,28,B,1.0,0.25,-2.0794415416798353,Easy
+MA011,إذا كان مجموع زاويتين متكاملتين يساوي 180° وكانت إحداهما 70° فإن الأخرى تساوي:,MATH,110°,90°,70°,100°,A,1.0,0.25,-0.916290731874155,Medium
+MA012,ناتج 6 × (4 + 2) يساوي:,MATH,24,36,48,12,B,1.0,0.25,-4.304065093204168,Easy
+MA013,إذا كان طول المستطيل 8 سم وعرضه 5 سم فإن مساحته تساوي:,MATH,26,40,13,80,B,1.0,0.25,-2.3978952727983707,Easy
+MA014,إذا كانت قيمة 3x = 21 فإن x يساوي:,MATH,6,7,9,3,B,1.0,0.25,-1.3545456628053103,Easy
+MA015,عدد القواسم الموجبة للعدد 12 يساوي:,MATH,4,5,6,8,C,1.0,0.25,0.9343092373768331,Medium
+MA016,إذا كان محيط الدائرة = 2πr ونصف القطر 7 سم فإن المحيط يساوي:,MATH,14π,21π,28π,49π,C,1.0,0.25,4.304065093204168,Hard
+MA017,إذا كانت الزاويتان المتقابلتان بالرأس إحداهما 45° فإن الأخرى تساوي:,MATH,45°,90°,135°,180°,A,1.0,0.25,-0.6931471805599453,Medium
+MA018,إذا كان مجموع عددين زوجيين يساوي 18 فإن أحد الاحتمالات هو:,MATH,7 و 11,8 و 10,5 و 13,9 و 9,B,1.0,0.25,-2.1690537003695236,Easy
+MA019,قيمة √81 تساوي:,MATH,8,9,18,27,B,1.0,0.25,-2.3272777055844176,Easy
+MA020,إذا كانت س = 2 فإن قيمة 2س² + 3 تساوي:,MATH,7,11,13,15,B,1.0,0.25,-1.01160091167848,Easy
+MA021,إذا كان مجموع زوايا الشكل الرباعي يساوي:,MATH,180°,270°,360°,540°,C,1.0,0.25,-0.48550781578170094,Medium
+MA022,ناتج 9 ÷ 3 × 2 يساوي:,MATH,1,6,12,18,B,1.0,0.25,-4.304065093204168,Easy
+MA023,إذا كان طول القطر في مربع يساوي 10√2 سم فإن طول ضلعه يساوي:,MATH,5,10,10√2,20,B,1.0,0.25,2.639057329615259,Hard
+MA024,إذا كانت النسبة بين أعمار شخصين 4 : 5 ومجموعهما 36 فإن عمر الأكبر يساوي:,MATH,16,18,20,24,C,1.0,0.25,-0.4382549309311555,Medium
+MA025,قيمة 2³ × 2² تساوي:,MATH,16,32,64,128,B,1.0,0.25,-1.2527629684953683,Easy
+MA026,إذا كان قياس الزاوية الخارجية للمثلث 120° فإن مجموع الزاويتين الداخليتين البعيدتين يساوي:,MATH,60°,120°,180°,240°,B,1.0,0.25,0.051293294387550266,Medium
+MA027,عدد الأعداد الأولية بين 1 و 10 يساوي:,MATH,2,3,4,5,C,1.0,0.25,0.6931471805599453,Medium
+MA028,إذا كان المتوسط الحسابي لخمسة أعداد يساوي 6 فإن مجموعها يساوي:,MATH,11,30,36,60,B,1.0,0.25,-0.22314355131420957,Medium
+MA029,إذا كانت س ص = 24 وس = 4 فإن ص تساوي:,MATH,4,6,8,12,B,1.0,0.25,-1.2527629684953683,Easy
+MA030,قيمة 7² − 3² تساوي:,MATH,16,28,40,49,B,1.0,0.25,4.304065093204168,Hard
+MA031,إذا كان محيط المستطيل 36 سم وطوله 10 سم فإن عرضه يساوي:,MATH,8,6,5,4,B,1.0,0.25,4.304065093204168,Hard
+MA032,ناتج (−3) × (−4) يساوي:,MATH,−12,12,−7,7,B,1.0,0.25,-0.8649974374866046,Medium
+MA033,إذا كانت س + ص = 12 وس − ص = 4 فإن س تساوي:,MATH,4,6,8,10,C,1.0,0.25,-0.3364722366212129,Medium
+MA034,قيمة 25% من 200 تساوي:,MATH,25,40,50,75,C,1.0,0.25,-4.304065093204168,Easy
+MA035,إذا كان حجم المكعب 27 سم³ فإن طول حرفه يساوي:,MATH,3,6,9,27,A,1.0,0.25,-1.446918982936325,Easy
+MA036,عدد الأعداد الصحيحة بين −3 و 3 يساوي:,MATH,3,4,5,6,C,1.0,0.25,0.8754687373538999,Medium
+MA037,إذا كان قياس الزاوية الحادة في مثلث قائم 30° فإن الزاوية الأخرى تساوي:,MATH,30°,45°,60°,90°,C,1.0,0.25,-4.304065093204168,Easy
+MA038,إذا كانت مساحة الدائرة 49π سم² فإن نصف قطرها يساوي:,MATH,7,14,21,49,A,1.0,0.25,0.287682072451781,Medium
+MA039,إذا كان احتمال حدوث حدث = 1 فإن الحدث يكون:,MATH,مستحيل,ممكن,مؤكد,غير محدد,C,1.0,0.25,-0.22314355131420957,Medium
+MA040,ناتج 1 + 3 + 5 + 7 يساوي:,MATH,14,15,16,17,C,1.0,0.25,-2.3272777055844176,Easy
+MA041,إذا كان مجموع عددين فرديين يساوي 20 فإن أحد الاحتمالات هو:,MATH,9 و 11,8 و 12,7 و 13,10 و 10,A,1.0,0.25,1.0986122886681098,Hard
+MA042,قيمة √49 + √16 تساوي:,MATH,9,11,13,15,B,1.0,0.25,-0.5947071077466924,Medium
+MA043,إذا كان س² = 25 فإن قيمة س الموجبة تساوي:,MATH,−5,0,5,25,C,1.0,0.25,-1.3545456628053103,Easy
+MA044,إذا كانت مساحة المثلث = 24 سم² وطول القاعدة 8 سم فإن الارتفاع يساوي:,MATH,3,4,6,8,C,1.0,0.25,0.6931471805599453,Medium
+MA045,ناتج 10% من 150 يساوي:,MATH,10,15,20,25,B,1.0,0.25,-0.6931471805599453,Medium
+MA046,إذا كان قياس الزاوية المستقيمة يساوي:,MATH,90°,120°,180°,360°,C,1.0,0.25,-0.5596157879354228,Medium
+MA047,عدد مضاعفات العدد 3 بين 1 و 20 يساوي:,MATH,5,6,7,8,C,1.0,0.25,4.304065093204168,Hard
+MA048,إذا كان المتوسط الحسابي لثلاثة أعداد 12 فإن مجموعها يساوي:,MATH,24,30,36,48,C,1.0,0.25,0.43078291609245445,Medium
+MA049,إذا كانت س:ص = 2:3 وكان س = 8 فإن ص تساوي:,MATH,10,12,16,24,B,1.0,0.25,0.22314355131420957,Medium
+MA050,قيمة 4³ ÷ 4 تساوي:,MATH,4,8,16,64,C,1.0,0.25,1.1631508098056809,Hard
+MA051,إذا كان مجموع زوايا المثلث 180° وكانت زاويتان 50° و 60° فإن الثالثة تساوي:,MATH,50°,60°,70°,80°,C,1.0,0.25,-0.916290731874155,Medium
+MA052,ناتج 12 ÷ (3 × 2) يساوي:,MATH,1,2,3,4,B,1.0,0.25,-1.6817585740137262,Easy
+MA053,إذا كان محيط الدائرة 44 سم فإن نصف قطرها يساوي (π=22/7):,MATH,7,14,21,28,A,1.0,0.25,0.4989911661189879,Medium
+MA054,قيمة 3(2س − 1) عندما س = 2 تساوي:,MATH,6,9,10,12,B,1.0,0.25,-0.48550781578170094,Medium
+MA055,عدد القواسم الموجبة للعدد 18 يساوي:,MATH,4,5,6,9,C,1.0,0.25,1.791759469228055,Hard
+MA056,إذا كان طول ضلع المربع 6 سم فإن مساحته تساوي:,MATH,12,18,24,36,D,1.0,0.25,-1.139434283188365,Easy
+MA057,إذا كان احتمال حدث ما = 0 فإن الحدث يكون:,MATH,مؤكد,ممكن,مستحيل,غير محدد,C,1.0,0.25,-1.139434283188365,Easy
+MA058,ناتج (5 − 3)² يساوي:,MATH,4,8,16,25,A,1.0,0.25,-0.48550781578170094,Medium
+MA059,إذا كانت س − 4 = 9 فإن س تساوي:,MATH,5,9,13,15,C,1.0,0.25,-2.0794415416798353,Easy
+MA060,قيمة 20% من 250 تساوي:,MATH,25,40,50,75,C,1.0,0.25,-0.3629054936893683,Medium
+MA061,إذا كان مجموع عددين يساوي 18 والفرق بينهما 4 فإن العدد الأكبر يساوي:,MATH,7,9,11,13,C,1.0,0.25,-0.6931471805599453,Medium
+MA062,قيمة √100 − √36 تساوي:,MATH,2,4,6,8,B,1.0,0.25,-1.2527629684953683,Easy
+MA063,إذا كانت س/4 = 5 فإن س تساوي:,MATH,9,15,20,25,C,1.0,0.25,-1.446918982936325,Easy
+MA064,إذا كان قياس الزاوية المنفرجة أكبر من:,MATH,90°,180°,45°,360°,A,1.0,0.25,2.079441541679836,Hard
+MA065,ناتج 2⁴ + 2³ يساوي:,MATH,16,20,24,32,C,1.0,0.25,-0.6931471805599453,Medium
+MA066,إذا كان طول قاعدة المثلث 10 سم وارتفاعه 6 سم فإن مساحته تساوي:,MATH,30,60,16,120,A,1.0,0.25,-0.5306282510621704,Medium
+MA067,عدد الأعداد الصحيحة الموجبة الأقل من 5 يساوي:,MATH,2,3,4,5,B,1.0,0.25,4.304065093204168,Hard
+MA068,إذا كان المتوسط الحسابي لعددين متتاليين يساوي 9 فإن العددين هما:,MATH,8 و 9,9 و 10,7 و 11,8 و 10,B,1.0,0.25,4.304065093204168,Hard
+MA069,إذا كانت س² − 9 = 0 فإن قيمة س الموجبة تساوي:,MATH,3,−3,9,0,A,1.0,0.25,-4.304065093204168,Easy
+MA070,قيمة 6² ÷ 3 تساوي:,MATH,6,12,18,36,B,1.0,0.25,-2.3272777055844176,Easy
+MA071,إذا كان 3س = 27 فإن قيمة س تساوي:,MATH,6,7,8,9,D,1.0,0.25,0.13353139262452277,Medium
+MA072,ناتج √64 + 2² يساوي:,MATH,10,12,14,16,B,1.0,0.25,0.0,Medium
+MA073,إذا كان قياس الزاوية القائمة 90° فإن نصفها يساوي:,MATH,30°,45°,60°,90°,B,1.0,0.25,-1.139434283188365,Easy
+MA074,إذا كانت مساحة المستطيل 48 سم² وطول أحد ضلعيه 6 سم فإن الضلع الآخر يساوي:,MATH,6,8,10,12,B,1.0,0.25,-0.6151856390902332,Medium
+MA075,قيمة 15% من 200 تساوي:,MATH,20,25,30,35,C,1.0,0.25,-0.3629054936893683,Medium
+MA076,عدد الأعداد الأولية الأقل من 10 يساوي:,MATH,2,3,4,5,C,1.0,0.25,0.6931471805599453,Medium
+MA077,إذا كان س + 5 = 12 فإن قيمة س تساوي:,MATH,5,6,7,8,C,1.0,0.25,-4.304065093204168,Easy
+MA078,ناتج (4² − 2²) يساوي:,MATH,8,10,12,16,A,1.0,0.25,4.304065093204168,Hard
+MA079,إذا كان احتمال نجاح طالب = 0.7 فإن احتمال رسوبه يساوي:,MATH,0.3,0.7,1,0,A,1.0,0.25,-1.446918982936325,Easy
+MA080,قيمة 9² ÷ 3 تساوي:,MATH,9,18,27,81,B,1.0,0.25,4.304065093204168,Hard
+MA081,إذا كان مجموع عددين متتاليين يساوي 41 فإن العدد الأكبر يساوي:,MATH,20,21,22,23,B,1.0,0.25,-0.4054651081081641,Medium
+MA082,قيمة √121 − √25 تساوي:,MATH,6,8,10,12,C,1.0,0.25,4.304065093204168,Hard
+MA083,إذا كانت س : ص = 5 : 2 وكان ص = 6 فإن س تساوي:,MATH,10,12,15,20,C,1.0,0.25,-0.5947071077466924,Medium
+MA084,إذا كان قياس الزاوية الحادة أقل من:,MATH,45°,90°,180°,360°,B,1.0,0.25,-1.0986122886681098,Easy
+MA085,ناتج 2³ × 3 يساوي:,MATH,12,18,24,36,A,1.0,0.25,4.304065093204168,Hard
+MA086,إذا كان طول ضلع المربع 9 سم فإن محيطه يساوي:,MATH,27,36,45,81,B,1.0,0.25,-1.6817585740137262,Easy
+MA087,عدد الأعداد الصحيحة السالبة الأكبر من −5 يساوي:,MATH,2,3,4,5,B,1.0,0.25,4.304065093204168,Hard
+MA088,إذا كان المتوسط الحسابي لخمسة أعداد متتالية يساوي 10 فإن العدد الأوسط يساوي:,MATH,8,9,10,11,C,1.0,0.25,0.24686007793152565,Medium
+MA089,إذا كانت س² = 49 فإن قيمة س الموجبة تساوي:,MATH,5,6,7,9,C,1.0,0.25,-1.446918982936325,Easy
+MA090,قيمة 100% من 75 تساوي:,MATH,75,100,50,25,A,1.0,0.25,-0.5596157879354228,Medium
+IQ001,ما العدد التالي في المتتابعة: 2، 4، 8، 16، ؟,IQ,18,24,32,34,C,1.0,0.25,0.0,Medium
+IQ002,ما العدد الناقص: 1، 4، 9، 16، ؟,IQ,20,24,25,36,C,1.0,0.25,-2.0794415416798353,Easy
+IQ003,إذا كان أحمد أطول من محمد، ومحمد أطول من علي، فمن الأقصر؟,IQ,أحمد,محمد,علي,لا يمكن التحديد,C,1.0,0.25,-4.304065093204168,Easy
+IQ004,ما الشكل المختلف؟ مربع – مستطيل – مثلث – متوازي أضلاع,IQ,مربع,مستطيل,مثلث,متوازي أضلاع,C,1.0,0.25,-1.9810014688665831,Easy
+IQ005,كتاب : قراءة :: سكين : ؟,IQ,جرح,طعام,تقطيع,أكل,C,1.0,0.25,-0.5596157879354228,Medium
+IQ006,ما العدد التالي: 5، 10، 20، 40، ؟,IQ,45,60,80,100,C,1.0,0.25,-1.446918982936325,Easy
+IQ007,إذا كان اليوم الثلاثاء، فما اليوم بعد 5 أيام؟,IQ,السبت,الأحد,الاثنين,الخميس,A,1.0,0.25,4.304065093204168,Hard
+IQ008,أي كلمة لا تنتمي للمجموعة؟ تفاح – موز – برتقال – بطاطس,IQ,تفاح,موز,برتقال,بطاطس,D,1.0,0.25,-1.9810014688665831,Easy
+IQ009,إذا كانت كل القطط حيوانات، وبعض الحيوانات أليفة، فهل كل القطط أليفة؟,IQ,نعم,لا,أحيانًا,غير محدد,D,1.0,0.25,4.304065093204168,Hard
+IQ010,ما العدد التالي في المتتابعة: 3، 6، 12، 24، ؟,IQ,27,36,48,60,C,1.0,0.25,-0.4054651081081641,Medium
+IQ011,ما العدد التالي في المتتابعة: 1، 3، 6، 10، ؟,IQ,13,14,15,16,C,1.0,0.25,-0.6931471805599453,Medium
+IQ012,إذا كان (▲ = 4) و(■ = 9) فما قيمة ▲ + ■ ؟,IQ,11,12,13,14,C,1.0,0.25,-0.3364722366212129,Medium
+IQ013,ما الكلمة المختلفة؟ قلم – دفتر – كتاب – كرسي,IQ,قلم,دفتر,كتاب,كرسي,D,1.0,0.25,-0.916290731874155,Medium
+IQ014,إذا كانت الساعة الآن 3:00، فكم تكون بعد 150 دقيقة؟,IQ,4:30,5:00,5:30,6:00,C,1.0,0.25,0.0,Medium
+IQ015,ما العدد التالي: 81، 27، 9، 3، ؟,IQ,1,0,6,9,A,1.0,0.25,0.8157495026522777,Medium
+IQ016,أي شكل له 3 أضلاع؟,IQ,مربع,مستطيل,مثلث,دائرة,C,1.0,0.25,-2.0794415416798353,Easy
+IQ017,محمد أخو علي، وعلي أخو أحمد، فكيف تكون علاقة محمد بأحمد؟,IQ,أخوه,ابنه,قريبه,لا علاقة,A,1.0,0.25,-1.446918982936325,Easy
+IQ018,ما العدد الناقص: 2، 6، 12، 20، ؟,IQ,24,28,30,32,B,1.0,0.25,4.304065093204168,Hard
+IQ019,أي زوج لا ينتمي للمجموعة؟,IQ,عين – نظر,أذن – سمع,أنف – شم,يد – لمس,A,1.0,0.25,4.304065093204168,Hard
+IQ020,ما الشكل الناتج من دمج مربعين متساويين؟,IQ,مستطيل,مثلث,دائرة,مربع أكبر,A,1.0,0.25,1.519825753744413,Hard
+IQ021,ما العدد التالي في المتتابعة: 4، 9، 16، 25، ؟,IQ,30,35,36,49,C,1.0,0.25,-0.3364722366212129,Medium
+IQ022,إذا كان كل الطلاب ناجحين، وسعيد طالب، فهل سعيد ناجح؟,IQ,نعم,لا,أحيانًا,غير محدد,A,1.0,0.25,-2.0794415416798353,Easy
+IQ023,أي كلمة لا تنتمي؟ ذهب – فضة – حديد – خشب,IQ,ذهب,فضة,حديد,خشب,D,1.0,0.25,-4.304065093204168,Easy
+IQ024,ما العدد الناقص: 1، 1، 2، 3، 5، ؟,IQ,6,7,8,10,C,1.0,0.25,-0.8649974374866046,Medium
+IQ025,إذا كانت السيارة أسرع من الدراجة، والدراجة أسرع من المشي، فما الأسرع؟,IQ,المشي,الدراجة,السيارة,لا يمكن,C,1.0,0.25,-1.7491998548092587,Easy
+IQ026,أي شكل له أكبر عدد أضلاع؟,IQ,مثلث,مربع,خماسي,سداسي,D,1.0,0.25,-1.2527629684953683,Easy
+IQ027,ما العدد التالي: 2، 3، 5، 8، 13، ؟,IQ,18,20,21,24,C,1.0,0.25,1.3862943611198904,Hard
+IQ028,كتاب : مكتبة :: لوحة : ؟,IQ,فنان,معرض,رسم,متحف,D,1.0,0.25,4.304065093204168,Hard
+IQ029,أي زوج مختلف؟,IQ,ليل – نهار,صيف – شتاء,أبيض – أسود,طويل – قصير,B,1.0,0.25,4.304065093204168,Hard
+IQ030,ما الناتج المنطقي: كل الطيور تطير، والبطريق طائر، إذن؟,IQ,البطريق يطير,البطريق لا يطير,بعض الطيور لا تطير,غير محدد,A,1.0,0.25,-1.139434283188365,Easy
+IQ031,ما العدد التالي في المتتابعة: 10، 20، 40، 80، ؟,IQ,100,120,160,200,C,1.0,0.25,-1.2527629684953683,Easy
+IQ032,أي كلمة لا تنتمي؟ أسد – نمر – ذئب – بقرة,IQ,أسد,نمر,ذئب,بقرة,D,1.0,0.25,-2.0794415416798353,Easy
+IQ033,إذا كان خالد أكبر من سامي، وسامي أكبر من عمر، فمن الأصغر؟,IQ,خالد,سامي,عمر,لا يمكن,C,1.0,0.25,-0.22314355131420957,Medium
+IQ034,ما العدد الناقص: 3، 6، 12، ؟، 48,IQ,18,20,24,30,C,1.0,0.25,0.287682072451781,Medium
+IQ035,قلم : كتابة :: فرشاة : ؟,IQ,رسم,تنظيف,دهان,مسح,A,1.0,0.25,-1.7491998548092587,Easy
+IQ036,ما الشكل الذي له جميع أضلاع متساوية؟,IQ,مستطيل,مثلث,مربع,متوازي أضلاع,C,1.0,0.25,-1.6094379124341003,Easy
+IQ037,ما العدد التالي: 7، 14، 21، 28، ؟,IQ,32,35,36,42,B,1.0,0.25,-2.3272777055844176,Easy
+IQ038,أي زوج مختلف؟,IQ,يد – لمس,أنف – شم,عين – رؤية,قدم – أكل,D,1.0,0.25,-0.48550781578170094,Medium
+IQ039,إذا كان اليوم الخميس، فما اليوم بعد 9 أيام؟,IQ,السبت,الأحد,الاثنين,الثلاثاء,C,1.0,0.25,4.304065093204168,Hard
+IQ040,ما النتيجة المنطقية: بعض الطلاب مجتهدون، ومحمد طالب، إذن؟,IQ,محمد مجتهد,محمد غير مجتهد,محمد طالب,لا يمكن الجزم,D,1.0,0.25,0.9343092373768331,Medium
+IQ041,ما العدد التالي في المتتابعة: 2، 5، 10، 17، ؟,IQ,24,25,26,27,C,1.0,0.25,0.47000362924573574,Medium
+IQ042,أي كلمة لا تنتمي؟ ساعة – دقيقة – ثانية – متر,IQ,ساعة,دقيقة,ثانية,متر,D,1.0,0.25,-1.8718021769015918,Easy
+IQ043,إذا كان جميع الأطباء متعلمون، وبعض المتعلمين علماء، فهل بعض الأطباء علماء؟,IQ,نعم,لا,أحيانًا,غير محدد,D,1.0,0.25,4.304065093204168,Hard
+IQ044,ما العدد الناقص: 100، 90، 80، ؟، 60,IQ,75,70,65,50,B,1.0,0.25,-2.1690537003695236,Easy
+IQ045,مفتاح : قفل :: قلم : ؟,IQ,كتاب,ورقة,حبر,ممحاة,B,1.0,0.25,1.0498221244986778,Hard
+IQ046,أي شكل ليس رباعيًا؟,IQ,مربع,مستطيل,معين,مثلث,D,1.0,0.25,-1.2527629684953683,Easy
+IQ047,ما العدد التالي: 1، 4، 7، 10، ؟,IQ,11,12,13,14,C,1.0,0.25,-0.6931471805599453,Medium
+IQ048,أي زوج مختلف؟,IQ,ملعقة – أكل,سكين – تقطيع,فرشاة – رسم,كرسي – جلوس,C,1.0,0.25,0.8266785731844679,Medium
+IQ049,إذا كان اليوم الأحد، فما اليوم قبل 3 أيام؟,IQ,الخميس,الجمعة,السبت,الأربعاء,A,1.0,0.25,-0.22314355131420957,Medium
+IQ050,ما النتيجة المنطقية: كل الزهور نباتات، والورد زهرة، إذن؟,IQ,الورد نبات,الورد ليس نبات,بعض الزهور ليست نباتات,غير محدد,A,1.0,0.25,-0.11778303565638364,Medium
+IQ051,ما العدد التالي في المتتابعة: 3، 7، 15، 31، ؟,IQ,47,55,63,95,C,1.0,0.25,0.6931471805599453,Medium
+IQ052,أي كلمة لا تنتمي؟ نحاس – حديد – ذهب – خشب,IQ,نحاس,حديد,ذهب,خشب,D,1.0,0.25,-4.304065093204168,Easy
+IQ053,إذا كان بعض الطلاب رياضيين، وكل الرياضيين أصحاء، فهل بعض الطلاب أصحاء؟,IQ,نعم,لا,أحيانًا,غير محدد,A,1.0,0.25,0.8754687373538999,Medium
+IQ054,ما العدد الناقص: 2، 4، 8، ؟، 32,IQ,12,14,16,24,C,1.0,0.25,0.287682072451781,Medium
+IQ055,عين : رؤية :: أذن : ؟,IQ,سماع,كلام,شم,لمس,A,1.0,0.25,-0.4054651081081641,Medium
+IQ056,أي شكل له أضلاع غير متساوية غالبًا؟,IQ,مربع,مستطيل,مثلث,دائرة,C,1.0,0.25,1.0498221244986778,Hard
+IQ057,ما العدد التالي: 100، 81، 64، 49، ؟,IQ,36,25,16,9,A,1.0,0.25,0.6931471805599453,Medium
+IQ058,أي زوج مختلف؟,IQ,قلم – كتابة,ساعة – وقت,نار – حرارة,ثلج – برودة,A,1.0,0.25,2.9957322735539917,Hard
+IQ059,إذا كان اليوم الاثنين، فما اليوم بعد 14 يومًا؟,IQ,الاثنين,الثلاثاء,الأحد,الجمعة,A,1.0,0.25,-0.22314355131420957,Medium
+IQ060,ما النتيجة المنطقية: كل المعادن توصل الكهرباء، والفضة معدن، إذن؟,IQ,الفضة توصل الكهرباء,الفضة لا توصل الكهرباء,بعض المعادن لا توصل,غير محدد,A,1.0,0.25,-4.304065093204168,Easy
+IQ061,ما العدد التالي في المتتابعة: 1، 2، 4، 7، 11، ؟,IQ,14,15,16,18,B,1.0,0.25,4.304065093204168,Hard
+IQ062,أي كلمة لا تنتمي؟ طائرة – سيارة – سفينة – حصان,IQ,طائرة,سيارة,سفينة,حصان,D,1.0,0.25,-1.5314763709643888,Easy
+IQ063,إذا كان كل المعلمين مثقفين، وأحمد معلم، فهل أحمد مثقف؟,IQ,نعم,لا,أحيانًا,غير محدد,A,1.0,0.25,-0.22314355131420957,Medium
+IQ064,ما العدد الناقص: 5، 10، 20، ؟، 80,IQ,30,35,40,45,C,1.0,0.25,-1.3545456628053103,Easy
+IQ065,قلب : دم :: رئة : ؟,IQ,هواء,تنفس,أكسجين,صدر,C,1.0,0.25,1.0498221244986778,Hard
+IQ066,أي شكل ليس له زوايا؟,IQ,مربع,مثلث,دائرة,مستطيل,C,1.0,0.25,-4.304065093204168,Easy
+IQ067,ما العدد التالي: 2، 6، 12، 20، ؟,IQ,24,28,30,32,B,1.0,0.25,4.304065093204168,Hard
+IQ068,أي زوج مختلف؟,IQ,ثلج – برودة,نار – حرارة,مطر – بلل,شمس – ظل,D,1.0,0.25,-4.304065093204168,Easy
+IQ069,إذا كان اليوم الجمعة، فما اليوم قبل 10 أيام؟,IQ,الثلاثاء,الأربعاء,الخميس,الاثنين,A,1.0,0.25,4.304065093204168,Hard
+IQ070,ما النتيجة المنطقية: بعض الكتب مفيدة، وكل المفيد محبوب، إذن؟,IQ,كل الكتب محبوبة,بعض الكتب محبوبة,لا كتاب محبوب,غير محدد,B,1.0,0.25,-1.01160091167848,Easy
+IQ071,ما العدد التالي في المتتابعة: 2، 3، 5، 9، 17، ؟,IQ,25,33,31,29,C,1.0,0.25,4.304065093204168,Hard
+IQ072,أي كلمة لا تنتمي؟ ذهب – فضة – نحاس – بلاستيك,IQ,ذهب,فضة,نحاس,بلاستيك,D,1.0,0.25,-4.304065093204168,Easy
+IQ073,إذا كان كل اللاعبين نشيطين، وبعض النشيطين أذكياء، فهل بعض اللاعبين أذكياء؟,IQ,نعم,لا,أحيانًا,غير محدد,D,1.0,0.25,4.304065093204168,Hard
+IQ074,ما العدد الناقص: 4، 8، 16، ؟، 64,IQ,24,28,32,36,C,1.0,0.25,-1.178654996341646,Easy
+IQ075,شجرة : ظل :: مصباح : ؟,IQ,ضوء,حرارة,كهرباء,نور,A,1.0,0.25,0.43078291609245445,Medium
+IQ076,أي شكل له خمس زوايا؟,IQ,مربع,خماسي,سداسي,مثلث,B,1.0,0.25,-1.139434283188365,Easy
+IQ077,ما العدد التالي: 50، 45، 40، 35، ؟,IQ,25,30,32,28,B,1.0,0.25,-1.9810014688665831,Easy
+IQ078,أي زوج مختلف؟,IQ,قلم – كتابة,فم – كلام,عين – رؤية,أذن – قراءة,D,1.0,0.25,-1.01160091167848,Easy
+IQ079,إذا كان اليوم السبت، فما اليوم بعد 20 يومًا؟,IQ,الأربعاء,الخميس,الجمعة,السبت,C,1.0,0.25,-0.6931471805599453,Medium
+IQ080,ما النتيجة المنطقية: كل العلماء مجتهدون، ولا مجتهد كسول، إذن؟,IQ,بعض العلماء كسالى,لا عالم كسول,كل الكسالى علماء,غير محدد,B,1.0,0.25,-0.3364722366212129,Medium
+IQ081,ما العدد التالي في المتتابعة: 1، 4، 9، 16، 25، ؟,IQ,30,36,49,64,B,1.0,0.25,-0.3629054936893683,Medium
+IQ082,أي كلمة لا تنتمي؟ عين – أذن – أنف – يد,IQ,عين,أذن,أنف,يد,D,1.0,0.25,-4.304065093204168,Easy
+IQ083,إذا كان كل الصادقين محبوبين، وعلي صادق، فهل علي محبوب؟,IQ,نعم,لا,أحيانًا,غير محدد,A,1.0,0.25,-0.22314355131420957,Medium
+IQ084,ما العدد الناقص: 2، 6، 18، ؟، 162,IQ,36,48,54,72,C,1.0,0.25,0.4989911661189879,Medium
+IQ085,قلم : حبر :: سيارة : ؟,IQ,وقود,عجلة,مقود,طريق,A,1.0,0.25,-0.4382549309311555,Medium
+IQ086,أي شكل له أكبر عدد زوايا؟,IQ,مثلث,مربع,خماسي,سداسي,D,1.0,0.25,-2.0794415416798353,Easy
+IQ087,ما العدد التالي: 100، 50، 25، ؟,IQ,20,15,12.5,10,C,1.0,0.25,-1.6094379124341003,Easy
+IQ088,أي زوج مختلف؟,IQ,ثلج – برودة,نار – حرارة,مطر – بلل,ثلج – ماء,D,1.0,0.25,-0.4054651081081641,Medium
+IQ089,إذا كان اليوم الأربعاء، فما اليوم بعد 30 يومًا؟,IQ,الجمعة,السبت,الأحد,الاثنين,C,1.0,0.25,4.304065093204168,Hard
+IQ090,ما النتيجة المنطقية: بعض الناس أذكياء، وبعض الأذكياء ناجحون، إذن؟,IQ,كل الناس ناجحون,بعض الناس ناجحون,لا أحد ناجح,غير محدد,D,1.0,0.25,4.304065093204168,Hard

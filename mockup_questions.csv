@@ -1,0 +1,6 @@
+QuestionID,Subject,QuestionText,OptionA,OptionB,OptionC,OptionD,CorrectAnswer,irt_b,irt_a,irt_c
+MATH-001,MATH,What is 2 + 2?,3,4,5,6,B,-2.0,1.0,0.25
+MATH-002,MATH,Solve for x: 2x + 5 = 15,x = 2,x = 10,x = 5,x = 4,C,0.0,1.0,0.25
+MATH-003,MATH,Calculate the derivative of x^3,3x^2,2x^3,x^2,3x,A,1.5,1.2,0.25
+SCIENCE-001,SCIENCE,Which planet is known as the Red Planet?,Venus,Mars,Jupiter,Saturn,B,-1.5,1.0,0.25
+IQ-001,IQ,"If all Bloops are Razzies and all Razzies are Lazzies, are all Bloops Lazzies?",Yes,No,Cannot be determined,None of the above,A,0.5,1.5,0.25
