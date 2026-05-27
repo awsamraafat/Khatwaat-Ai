@@ -1,7 +1,7 @@
 import json
 import numpy as np
 import random
-from irt_engine import IRTEngine2PL
+from ai.irt_engine import IRTEngine2PL
 
 class CATEngine:
     def __init__(self, question_bank_path, subject=None):

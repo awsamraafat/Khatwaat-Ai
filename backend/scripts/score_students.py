@@ -1,7 +1,11 @@
+import sys
+import os
 import json
 import pandas as pd
 import numpy as np
-from irt_engine import IRTEngine2PL
+# Inject parent directory (/backend) to resolve the "ai" package
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from ai.irt_engine import IRTEngine2PL
 
 def score_students(responses_csv_path, bank_path):
     """

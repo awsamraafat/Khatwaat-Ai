@@ -1,5 +1,10 @@
 import os
 import time
+import sys
+# Inject current folder and parent directory to resolve packages
+base_path = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, base_path)
+sys.path.insert(0, os.path.dirname(base_path))
 
 def verify_all():
     print("--- 1. Testing Data Simulation ---")

@@ -2,7 +2,10 @@ import time
 import json
 import os
 from datetime import datetime
-from cat_engine import CATEngine
+import sys
+# Inject parent directory (/backend) to resolve the "ai" package
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from ai.cat_engine import CATEngine
 
 class ExamSession:
     def __init__(self, student_id, bank_path, subject=None, max_time_per_question=60):

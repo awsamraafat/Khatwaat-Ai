@@ -1,5 +1,8 @@
+import sys
 import os
-from cat_engine import CATEngine
+# Inject parent directory (/backend) to resolve the "ai" package
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from ai.cat_engine import CATEngine
 
 def clear_screen():
     os.system('cls' if os.name == 'nt' else 'clear')

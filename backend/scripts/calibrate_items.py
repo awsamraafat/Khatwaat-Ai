@@ -1,8 +1,10 @@
 import json
 import pandas as pd
 import numpy as np
-import os
-from irt_engine import IRTEngine2PL
+import sys
+# Inject parent directory (/backend) to resolve the "ai" package
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from ai.irt_engine import IRTEngine2PL
 
 def calibrate_and_update_bank(responses_csv_path, bank_path, output_bank_path, model='3PL'):
     """
